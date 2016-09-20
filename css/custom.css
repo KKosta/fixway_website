@@ -1,0 +1,17 @@
+/****** PLACE YOUR CUSTOM STYLES HERE ******/
+
+.team_photos {
+	width: 120px;
+	border-radius: 60px;
+}
+
+#price_data {
+	display: block;
+	width: 80%;
+	margin: 0 auto;
+}
+
+#price_label {
+	padding-top: 20px;
+	color: #00B6FF;
+}
